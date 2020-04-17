@@ -19,7 +19,8 @@ public class Novo extends javax.swing.JFrame {
     public Novo() {
         initComponents();
         System.out.println("oLA");
-          System.out.println("oLA");  
+        Scanner ler = new Scanner(System.in);
+      
         
         
         
